@@ -6,6 +6,8 @@
 - 💬 Ask me about java, maybe I can help a little.
 - 📫 How to reach me: 📧Pengchangchengde@gmail.com
 - 😄 Interest: ⚽football
+- 📆 Worked before:
+    - YHD/[JD](www.jd.com) 2016.3-2018.12
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Pengchangcheng)
