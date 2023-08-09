@@ -1,8 +1,7 @@
 ### Hi Guys 👋
 
-- 🔭 I’m currently work at Dmall, Wuhan. As a <font color=#0681d0 size=5>java DEVer</font>👨‍💻. 
-- 💬 Ask me about java, maybe I can help a little.
-- 📫 How to reach me: 📧Pengchangchengde@gmail.com
+- 👨‍💻 Working at Dmall in Wuhan as a Java Developer
+- 📧 Pengchangchengde@gmail.com
 - 😄 Interest: ⚽football
 - 📆 Work Experience:
     - 🛒YHD/🐶JD | 2016.3-2018.12 | online shopping sites
